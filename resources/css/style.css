@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Carter+One);
+@import url(http://fonts.googleapis.com/css?family=Carter+One);
 
 
 * {
@@ -23,13 +23,6 @@ body {
 }
 body {
   color: #fff;
-}
-
-.wrapper {
-	top: 0;
-	bottom: 0;
-	width: 100%;
-	background: rgba(0,0,0,0.6);
 }
 
 .home {
